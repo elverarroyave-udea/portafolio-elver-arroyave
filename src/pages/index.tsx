@@ -24,7 +24,6 @@ export const Home = () => {
       <div className='flex flex-col'>
         <MainCard />
         <MyKnowledge />
-        <Profile />
         <Educations />
         <Portafolio />
         <Footer text="Footer Content" />
