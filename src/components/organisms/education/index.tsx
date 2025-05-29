@@ -4,7 +4,7 @@ import Certificates from '@/components/organisms/certificates'
 
 const Index = () => {
   return (
-    <div className="flex flex-col justify-start h-[700px] w-screen mt-20">
+    <div className="flex flex-col justify-start h-[700px] w-full mt-20">
         <h1 className="text-2xl font-bold text-center">Education</h1>
         <Description />
         <Certificates />
